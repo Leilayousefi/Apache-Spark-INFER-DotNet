@@ -59,3 +59,5 @@ export PYSPARK_PYTHON=/usr/local/bin/python3
 export PYSPARK_DRIVER_PYTHON=jupyter
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 
+### RUN PYSPARK IN JUPYTER
+pyspark
